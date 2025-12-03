@@ -1,1 +1,1 @@
-# Answer-in-3-seconds-Math-Multiplication-Game
+# 3秒以内に答えよ！数学掛け算ゲーム
